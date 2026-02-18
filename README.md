@@ -43,4 +43,4 @@ This directory showcases my expertise in building predictive models and deep lea
 * **Optimization**: Hyperparameter tuning and custom loss functions.
 * **End-to-End Pipeline**: From data ingestion to model inference.
 
-[⬅️ Back to Main Portfolio](../README.md)
+[⬅️ Back to Main Repositories](https://github.com/adolesans?tab=repositories)
